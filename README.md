@@ -1,1 +1,1 @@
-# Minhaz-Website
+# minhaz-website
